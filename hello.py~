@@ -1,4 +1,4 @@
-from helper import *
+from helper.py import *
 
 if __name__ == "__main__":
     greetings('hello')
